@@ -1,5 +1,5 @@
 //package frc.robot.commands.swervedrive.auto;
-package frc.robot.commands.auto;
+package frc.robot.commands.Auto;
 
 import edu.wpi.first.math.MathUtil;
 import edu.wpi.first.math.controller.PIDController;
